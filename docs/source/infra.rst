@@ -1,4 +1,4 @@
-Infra
+INFRA
 =====
 
 .. _Intro:
