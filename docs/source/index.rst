@@ -13,5 +13,6 @@ Sommaire
 
 .. toctree::
 
-   usage
-   api
+   infra
+   webapp
+   desktopApp
