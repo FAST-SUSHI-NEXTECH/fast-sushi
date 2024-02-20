@@ -29,7 +29,7 @@ Sommaire
    :caption: Front client
    
    webapp
-   
+
 .. toctree::
    :caption: Front client Admin
-   desktopAppReborn
+   desktop
