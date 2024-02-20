@@ -13,8 +13,8 @@ Sommaire
 
 .. toctree::
 
-   Infra
-   Bdd
-   Api   
-   Webapp
-   Desktop
+   infra
+   bdd
+   api   
+   webapp
+   desktop
