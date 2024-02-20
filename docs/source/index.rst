@@ -13,8 +13,12 @@ Sommaire
 
 .. toctree::
 
+   :caption: Infrastructure
    infra
+   :caption: Back & Base de données
    bdd
-   api   
+   api
+   :caption: Front client
    webapp
-   desktop
+   :caption: Front client Admin
+   desktopAppReborn

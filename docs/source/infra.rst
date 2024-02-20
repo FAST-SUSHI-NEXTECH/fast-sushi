@@ -4,8 +4,6 @@ Infra
 .. autosummary::
    :toctree: generated
 
-.. _Intro:
-
 Présentation
 ------------
 
