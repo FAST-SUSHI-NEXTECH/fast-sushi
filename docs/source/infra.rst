@@ -1,4 +1,4 @@
-INFRA
+Infra
 =====
 
 .. autosummary::
