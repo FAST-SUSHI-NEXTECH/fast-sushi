@@ -1,6 +1,9 @@
 INFRA
 =====
 
+.. autosummary::
+   :toctree: generated
+
 .. _Intro:
 
 Présentation
