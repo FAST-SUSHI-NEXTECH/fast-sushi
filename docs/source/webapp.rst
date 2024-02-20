@@ -1,3 +1,6 @@
 Webapp
-=====
+======
+
+.. autosummary::
+   :toctree: generated
 
