@@ -9,9 +9,9 @@ Présentation
 
 L'infra de notre projet en schéma ci-dessous:
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
+.. image:: source/assets/infra.png
+   :width: 400
+   :alt: Alternative text
 
 VPS
 ----------------
