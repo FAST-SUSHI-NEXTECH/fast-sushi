@@ -9,7 +9,7 @@ Présentation
 
 L'infra de notre projet en schéma ci-dessous:
 
-.. image:: source/assets/infra.png
+.. image:: /assets/infra.png
    :width: 400
    :alt: Alternative text
 
