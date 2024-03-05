@@ -22,10 +22,9 @@ Hébergeur: Redheberge
 Coût par mois: 8e
 Admin principal du VPS: Talace
 
-.. raw:: html
-   <div style="text-align:center; color: red;">
-         <h1>toto</h1>
-   </div>
+.. container:: red-header
+   
+   Titre
 
 
 DOCKER
