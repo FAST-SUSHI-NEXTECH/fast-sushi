@@ -18,13 +18,10 @@ VPS
 
 N'ayant pas de server à notre disposition, nous avons décidé de financer notre propre VPS en équipe.
 
-Hébergeur: Redheberge
-Coût par mois: 8e
-Admin principal du VPS: Talace
+* Hébergeur: Redheberge
+* Coût par mois: 8e
+* Admin principal du VPS: Talace
 
-.. container:: red-header
-   
-   Titre
 
 
 DOCKER
