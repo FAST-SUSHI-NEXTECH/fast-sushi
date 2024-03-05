@@ -11,9 +11,9 @@ Dans le cadre de notre projet de BTS SIO - SLAM réalisé de 2022 à 2024, nous 
 
     <div align="center">
       <img alt="Fast logo" width="200" src="https://raw.githubusercontent.com/FAST-SUSHI-NEXTECH/fast-sushi/main/docs/source/assets/logo.png">
-      <a href="https://github.com/FAST-SUSHI-NEXTECH" style="color: black; font-size: 36px; font-weight: bold;">FAST <span style="color: orange;">SUSHI</span></a>
+      <a href="https://github.com/FAST-SUSHI-NEXTECH" style="color: black; font-size: 42px; font-weight: bold;">FAST <span style="color: red;">SUSHI</span></a>
       <br><br>
-      <a href="https://github.com/FAST-SUSHI-NEXTECH" style="color: black; font-size: 24px; font-weight: bold;">Github</a>
+      <a href="https://github.com/FAST-SUSHI-NEXTECH" style="border: solid 2px; border-radius: 2px; color: black; font-size: 24px; font-weight: bold;">Github</a>
     </div>
 
 
