@@ -26,11 +26,19 @@ N'ayant pas de server à notre disposition, nous avons décidé de financer notr
 
 DOCKER
 ----------------
-.. autoexception:: lumache.InvalidKindError
+.. raw:: html
 
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+   <div align="">
+     <h2 style="font-weight: bold;">Equipe "DevOps":</h2><p>Talace</p>
+     <h1>N'ayant qu'un seul serveur à notre disposition et étant curieux de Docker. J'ai opté pour une infrastructure entièrement conteneurisée, séparée en 4 parties :</h1>
+     <br>
+     <ul>
+       <li style="font-weight: bold;">Web App</li>
+       <li style="font-weight: bold;">Base de Données</li>
+       <li style="font-weight: bold;">API</li>
+       <li style="font-weight: bold;">Websocket</li>
+     </ul>
+     <br>
+     <p></p>
+     <br>
+   </div>
