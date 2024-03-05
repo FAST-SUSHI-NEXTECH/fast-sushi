@@ -9,9 +9,7 @@ Présentation
 
 L'infra de notre projet en schéma ci-dessous:
 
-.. image:: /assets/infra.png
-   :width: 400
-   :alt: Alternative text
+<img src="/assets/infra.png" style="display: block; margin: auto;" />
 
 VPS
 ----------------
