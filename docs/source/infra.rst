@@ -29,8 +29,8 @@ DOCKER
 .. raw:: html
 
    <div align="">
-     <h2 style="font-weight: bold;">Equipe "DevOps":</h2><p>Talace</p>
-     <h1>N'ayant qu'un seul serveur à notre disposition et étant curieux de Docker. J'ai opté pour une infrastructure entièrement conteneurisée, séparée en 4 parties :</h1>
+     <p style="font-weight: bold;">Equipe "DevOps":</p><p>Talace</p>
+     <p>N'ayant qu'un seul serveur à notre disposition et étant curieux de Docker. J'ai opté pour une infrastructure entièrement conteneurisée, séparée en 4 parties :</p>
      <br>
      <ul>
        <li style="font-weight: bold;">Web App</li>
